@@ -1,4 +1,4 @@
-package com.enjoy.photoview;
+package com.example.customphotoview;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,4 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+
 }
